@@ -1,0 +1,1 @@
+import{_ as t,c as r,o as e,a1 as a}from"./chunks/framework.biRBrEtS.js";const p=JSON.parse('{"title":"设计数据密集型应用 - 中文翻译","description":"","frontmatter":{},"headers":[],"relativePath":"README.md","filePath":"README.md"}'),h={name:"README.md"},d=a("",34),l=[d];function n(o,i,g,f,b,u){return e(),r("div",null,l)}const s=t(h,[["render",n]]);export{p as __pageData,s as default};

@@ -1,0 +1,1 @@
+import{_ as l,c as a,o as i,a1 as h}from"./chunks/framework.biRBrEtS.js";const p=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"zh-tw/_sidebar.md","filePath":"zh-tw/_sidebar.md"}'),t={name:"zh-tw/_sidebar.md"},e=h("",1),r=[e];function c(_,f,m,s,o,n){return i(),a("div",null,r)}const u=l(t,[["render",c]]);export{p as __pageData,u as default};

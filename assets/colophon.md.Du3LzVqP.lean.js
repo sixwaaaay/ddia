@@ -1,0 +1,1 @@
+import{_ as a,c as o,o as e,a1 as t}from"./chunks/framework.biRBrEtS.js";const u=JSON.parse('{"title":"后记","description":"","frontmatter":{},"headers":[],"relativePath":"colophon.md","filePath":"colophon.md"}'),r={name:"colophon.md"},n=t("",16),p=[n];function i(s,l,c,d,h,_){return e(),o("div",null,p)}const b=a(r,[["render",i]]);export{u as __pageData,b as default};

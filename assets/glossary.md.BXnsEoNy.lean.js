@@ -1,0 +1,1 @@
+import{_ as t,c as r,o as p,a1 as l}from"./chunks/framework.biRBrEtS.js";const d=JSON.parse('{"title":"术语表","description":"","frontmatter":{},"headers":[],"relativePath":"glossary.md","filePath":"glossary.md"}'),a={name:"glossary.md"},h=l("",3),o=[h];function s(i,n,e,g,c,m){return p(),r("div",null,o)}const u=t(a,[["render",s]]);export{d as __pageData,u as default};

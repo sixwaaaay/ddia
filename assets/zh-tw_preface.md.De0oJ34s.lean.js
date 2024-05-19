@@ -1,0 +1,1 @@
+import{_ as a,c as e,o as r,a1 as i}from"./chunks/framework.biRBrEtS.js";const u=JSON.parse('{"title":"序言","description":"","frontmatter":{},"headers":[],"relativePath":"zh-tw/preface.md","filePath":"zh-tw/preface.md"}'),t={name:"zh-tw/preface.md"},o=i("",40),l=[o];function n(s,h,p,d,c,f){return r(),e("div",null,l)}const g=a(t,[["render",n]]);export{u as __pageData,g as default};

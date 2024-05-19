@@ -1,0 +1,1 @@
+import{_ as t,c as a,o as e,a1 as r}from"./chunks/framework.biRBrEtS.js";const p=JSON.parse('{"title":"第一部分：数据系统基础","description":"","frontmatter":{},"headers":[],"relativePath":"part-i.md","filePath":"part-i.md"}'),h={name:"part-i.md"},l=r("",8),o=[l];function i(s,n,c,d,_,f){return e(),a("div",null,o)}const g=t(h,[["render",i]]);export{p as __pageData,g as default};
